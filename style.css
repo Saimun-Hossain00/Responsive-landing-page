@@ -45,3 +45,17 @@ h1, h3{
     background: linear-gradient(180deg, rgba(61,79,243,1) 0%, rgba(53,67,188,1) 100%);
     border: none;
 }
+.aboud{
+    width:100%;
+}
+.about-section{
+    height: 700px;;
+}
+.subscriber-section{
+    background-color: #FFF9F4;
+    border-radius: 15px;
+}
+.last{
+    padding-top:10px;
+    text-align:center;
+}
